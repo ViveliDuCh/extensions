@@ -2,7 +2,6 @@ using Microsoft.Extensions.AI;
 using Aspire.OpenAI;
 using OpenAI;
 
-//namespace chat.aspire.Web;
 namespace Microsoft.Extensions.Hosting;
 
 public static class ResponseClientHelper
